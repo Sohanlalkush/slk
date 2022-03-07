@@ -1,6 +1,6 @@
 /* get img    */
-let gdown = '../../p/gddown.html/?fl=';
-let buy = '../../p/buy.html/?pn=';
+let gdown = '../../p/gddown.html?fl=';
+let buy = '../../p/buy.html?pn=';
 let dl2 = '&fn=';
 let n101a = 'PharmaLite.in Human Anatomy and Physiology I - Thakur Publication.pdf';
 let l101a = '1roMWdWHgjv36fZ6127r1OABrpTBh0h21';
