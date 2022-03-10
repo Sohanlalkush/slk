@@ -2,6 +2,7 @@
 let gdown = '../../p/gddown.html?fl=';
 let buy = '../../p/buy.html?pn=';
 let dl2 = '&fn=';
+let dpview = 'https://drive.google.com/file/d/' ;
 let n101a = 'PharmaLite.in Human Anatomy and Physiology I - Thakur Publication.pdf';
 let l101a = '1roMWdWHgjv36fZ6127r1OABrpTBh0h21';
 let i101a = '1uqdikgSjrfJOIX2Vj1Gq29l3A92MnSTM';
