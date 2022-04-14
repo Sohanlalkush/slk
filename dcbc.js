@@ -217,11 +217,11 @@ let n606c = ' PharmaLite.in Pharmaceautical Quality Assurance (Nirali Prakashan)
 let n701a = ' PharmaLite.in Instrumental Method of Analysis - Thakur Publication.pdf ';
  let l701a =  '1QqACdmgHNevhf99jqwHaw0RZ61IGAJ3t' ;
 
-let n701b = ' PharmaLite.in Instrumental Method of Analysis (Nirali Prakashan).pdf ';
- let l701b =  '1iAehAU09n6VcQ-yc8QYM8rxH-O5eeZcF' ;
+let n701c = ' PharmaLite.in Instrumental Method of Analysis (Nirali Prakashan).pdf ';
+ let l701c =  '1iAehAU09n6VcQ-yc8QYM8rxH-O5eeZcF' ;
 
-let n701c = ' PharmaLite.in Instrumental Method of Analysis (PV Publication).pdf ';
- let l701c =  '1KQHtoLtrsGnNt2vbKbT4U3thDc-0s9j2' ;
+let n701b = ' PharmaLite.in Instrumental Method of Analysis (PV Publication).pdf ';
+ let l701b =  '1KQHtoLtrsGnNt2vbKbT4U3thDc-0s9j2' ;
 
 let n702a = ' PharmaLite.in Industrial Pharmacy - II (Thakur Publication).pdf ';
  let l702a =  '10UKX_jg3HtL-V-6BpiI-uqp-tyhODK28' ;
