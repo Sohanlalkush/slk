@@ -67,7 +67,7 @@ animateMessage();
   } else {
 
   var http = new XMLHttpRequest();
-  http.open("POST", "https://api.openai.com/v1/completions");
+  http.open("POST", "https://demoexpress.team-4345595.repl.co/");
   http.setRequestHeader("Accept", "application/json");
   http.setRequestHeader("Content-Type", "application/json");
   http.setRequestHeader("Authorization", "Bearer " + OPENAI_API_KEY);
