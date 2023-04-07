@@ -77,23 +77,31 @@ animateMessage();
       var response = {};
       if (chatArea.innerHTML !== "") chatArea.innerHTML += "<br>";
 
-      try {
+     
         response = JSON.parse(http.responseText);
-      } catch (error) {
-        chatArea.innerHTML += "Error: " + error.message;
-      }
-
-      if (response.error && response.error.message) {
-        chatArea.innerHTML += "Error: " + response.error.message;
-      } else if (response.choices && response.choices[0].text) {
+        console.log(JSON.stringify(response));
+     if (response.status === false ) {
+     console.log(JSON.stringify(response.status));
+        var messageResponse = "Sorry😔, It's an error please send your question again.";
+        const llr = 'https://api.pawan.krd/resetip';
+const headersip = {
+    'Authorization': 'Bearer pk-aMWiVVdxaVYluEFHbslyKQEuHPNeNZZIzCRzXhuOAhMJopsP',
+    'Content-Type': 'application/json'
+  };
+  fetch(llr, {
+    method: 'POST',
+    headers: headersip,
+  });
+        } 
+        else if (response.choices && response.choices[0].text) {
         var messageResponse = response.choices[0].text;
+        }
 
         if (selLang.value !== "en-US") {
           var a = messageResponse.split("?\n");
           if (a.length == 2) {
             messageResponse = a[1];
           }
-        }
 
         if (messageResponse === "") messageResponse = "No response";
         
