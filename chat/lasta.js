@@ -97,7 +97,7 @@ animateMessage();
 
         if (messageResponse === "") messageResponse = "No response";
         
-        chatArea.innerHTML += "<div class='message Received'><span class='p'><strong>Pharmalite:</strong> " + messageResponse + "</span><span class='metadata' ><span class='time'>" + getTimeStamp() + "</span></span></div>";
+        chatArea.innerHTML +=  "<div class='message received'><span class='p'><strong>Pharmalite:</strong> " + messageResponse + "</span><span class='metadata' ><span class='time'>" + getTimeStamp() + "</span></span></div>";
   document.getElementById('status').innerHTML = '<nbsp style="color:#00e93d">● </nbsp>online';
   
  // Save chat history to localStorage
