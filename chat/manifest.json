@@ -1,0 +1,73 @@
+{
+  "background_color": "#0d855b",
+  "description": "Pharmalite Bot is a cutting-edge chatbot developed by Pharmalite, designed to provide users with accurate and reliable information related to pharmacy",
+  "dir": "ltr",
+  "display": "fullscreen",
+  "name": "PharmaChat AI chat by pharmalite.in",
+  "orientation": "natural",
+  "scope": "/",
+  "short_name": "PharmaChat",
+  "start_url": "https://chat.pharmalite.in/",
+  "theme_color": "#02c09a",
+  "categories": [
+    "books",
+    "education",
+    "health",
+    "medical"
+  ],
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/Sohanlalkush/slk/favicon.ico",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/Sohanlalkush/slk/chat/icon/windows11/Square44x44Logo.scale-200.png",
+      "sizes": "88x88",
+      "type": "image/png",
+      "platform": "windows"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/Sohanlalkush/slk/chat/icon/windows11/Square150x150Logo.scale-200.png",
+      "sizes": "300x300",
+      "type": "image/png",
+      "platform": "windows"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/Sohanlalkush/slk/chat/icon/android/android-launchericon-144-144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "platform": "android"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/Sohanlalkush/slk/chat/icon/android/android-launchericon-192-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "platform": "android"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/Sohanlalkush/slk/chat/icon/ios/ios-appicon-120-120.png",
+      "sizes": "120x120",
+      "type": "image/png",
+      "platform": "ios"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/Sohanlalkush/slk/chat/icon/ios/ios-appicon-180-180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "platform": "ios"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/Sohanlalkush/slk/chat/icon/ios/ios-appicon-76-76.png",
+      "sizes": "76x76",
+      "type": "image/png",
+      "platform": "ios"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/Sohanlalkush/slk/chat/icon/ios/ios-appicon-152-152.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "platform": "ios"
+    }
+  ],
+  "lang": "en"
+}
