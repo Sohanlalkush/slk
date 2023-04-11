@@ -5,7 +5,7 @@
   "display": "fullscreen",
   "name": "PharmaChat AI chat by pharmalite.in",
   "orientation": "natural",
-  "scope": "/",
+  "scope": "https://chat.pharmalite.in/",
   "short_name": "PharmaChat",
   "start_url": "https://chat.pharmalite.in/",
   "theme_color": "#02c09a",
@@ -24,6 +24,12 @@
       "src": "https://cdn.jsdelivr.net/gh/Sohanlalkush/slk/chat/icon/ios/512.png",
       "sizes": "512x512",
       "type": "image/png",
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/Sohanlalkush/slk/chat/icon/ios/1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+       "platform" : "any"
     },
     {
       "src": "https://cdn.jsdelivr.net/gh/Sohanlalkush/slk/chat/icon/windows11/Square44x44Logo.scale-200.png",
