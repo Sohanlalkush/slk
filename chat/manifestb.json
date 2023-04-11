@@ -2,7 +2,7 @@
   "background_color": "#0d855b",
   "description": "Pharmalite Bot is a cutting-edge chatbot developed by Pharmalite, designed to provide users with accurate and reliable information related to pharmacy",
   "dir": "ltr",
-  "display": "fullscreen",
+  "display": "standalone",
   "name": "PharmaChat AI chat by pharmalite.in",
   "orientation": "natural",
   "scope": "https://chat.pharmalite.in/",
