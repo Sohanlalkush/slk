@@ -23,13 +23,14 @@
      {
       "src": "https://cdn.jsdelivr.net/gh/Sohanlalkush/slk/chat/icon/ios/512.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     },
     {
       "src": "https://cdn.jsdelivr.net/gh/Sohanlalkush/slk/chat/icon/ios/1024.png",
       "sizes": "1024x1024",
       "type": "image/png",
-       "platform" : "any"
+       "purpose" : "any"
     },
     {
       "src": "https://cdn.jsdelivr.net/gh/Sohanlalkush/slk/chat/icon/windows11/Square44x44Logo.scale-200.png",
