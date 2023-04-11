@@ -20,6 +20,11 @@
       "src": "https://cdn.jsdelivr.net/gh/Sohanlalkush/slk/favicon.ico",
       "type": "image/x-icon"
     },
+     {
+      "src": "https://cdn.jsdelivr.net/gh/Sohanlalkush/slk/chat/icon/ios/512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+    },
     {
       "src": "https://cdn.jsdelivr.net/gh/Sohanlalkush/slk/chat/icon/windows11/Square44x44Logo.scale-200.png",
       "sizes": "88x88",
@@ -39,31 +44,31 @@
       "platform": "android"
     },
     {
-      "src": "https://cdn.jsdelivr.net/gh/Sohanlalkush/slk/chat/icon/android/android-launchericon-192-192.png",
+      "src": "https://cdn.jsdelivr.net/gh/Sohanlalkush/slk/chat/icon/android/android-launchericon192.png",
       "sizes": "192x192",
       "type": "image/png",
       "platform": "android"
     },
     {
-      "src": "https://cdn.jsdelivr.net/gh/Sohanlalkush/slk/chat/icon/ios/ios-appicon-120-120.png",
+      "src": "https://cdn.jsdelivr.net/gh/Sohanlalkush/slk/chat/icon/ios/120.png",
       "sizes": "120x120",
       "type": "image/png",
       "platform": "ios"
     },
     {
-      "src": "https://cdn.jsdelivr.net/gh/Sohanlalkush/slk/chat/icon/ios/ios-appicon-180-180.png",
+      "src": "https://cdn.jsdelivr.net/gh/Sohanlalkush/slk/chat/icon/ios/180.png",
       "sizes": "180x180",
       "type": "image/png",
       "platform": "ios"
     },
     {
-      "src": "https://cdn.jsdelivr.net/gh/Sohanlalkush/slk/chat/icon/ios/ios-appicon-76-76.png",
+      "src": "https://cdn.jsdelivr.net/gh/Sohanlalkush/slk/chat/icon/ios/76.png",
       "sizes": "76x76",
       "type": "image/png",
       "platform": "ios"
     },
     {
-      "src": "https://cdn.jsdelivr.net/gh/Sohanlalkush/slk/chat/icon/ios/ios-appicon-152-152.png",
+      "src": "https://cdn.jsdelivr.net/gh/Sohanlalkush/slk/chat/icon/ios/152.png",
       "sizes": "152x152",
       "type": "image/png",
       "platform": "ios"
